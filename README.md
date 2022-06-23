@@ -1,6 +1,6 @@
 # Hackintosh-Asus-Z97-C-OpenCore
-
-OpenCore 0.6.4 (Build date 3 Nov 2020) on Asus Z97-C with i7-4790 and AMD Radeon VII
+Monterey 12.4
+OpenCore 0.8.1 on Asus Z97-C with i7-4790 and AMD Radeon RX 580
 This PC runs latest Catalina using this EFI smoothly.
 Everything works - DRM, Handsoff, AirDrop, iMessages, FaceTime, SideCar and USB ports are mapped.
 Notes
